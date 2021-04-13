@@ -1,0 +1,17 @@
+{
+	"user": "ollymonger",
+	"repo": "samp-modular",
+	"entry": "gamemodes/main.pwn",
+	"output": "gamemodes/main.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib",
+		"pawn-lang/YSI-Includes:5.x"
+	],
+	"local": true,
+	"runtime": {
+		"version": "0.3.7",
+		"mode": "server",
+		"rcon_password": "password",
+		"port": 7777
+	}
+}
