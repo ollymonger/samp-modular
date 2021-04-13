@@ -14,20 +14,9 @@ Simply install to your project:
 sampctl package install ollymonger/samp-modular
 ```
 
-Include in your code and begin using the library:
-
-```pawn
-#include <samp-modular>
-```
-
 ## Usage
 
-<!--
-Write your code documentation or examples here. If your library is documented in
-the source code, direct users there. If not, list your API and describe it well
-in this section. If your library is passive and has no API, simply omit this
-section.
--->
+
 
 ## Testing
 
