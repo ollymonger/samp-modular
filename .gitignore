@@ -17,6 +17,8 @@ pawn.lock
 #
 # Server/gamemode related files
 #
+gamemodes/
+gamemodes/modules
 
 # compiled settings file
 # keep `samp.json` file on version control
